@@ -1,0 +1,19 @@
+.main {
+  padding: 40px 16px 64px;
+  background: var(--color-bg);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  width: 100%;
+  max-width: var(--container-width);
+  margin: 0 auto;
+}
+
+@media (max-width: 699px) {
+  .main {
+    padding-top: 24px;
+  }
+}

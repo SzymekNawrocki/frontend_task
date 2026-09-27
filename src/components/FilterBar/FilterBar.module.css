@@ -1,0 +1,24 @@
+.bar {
+  display: grid;
+  grid-template-columns: repeat(4, var(--control-width));
+  justify-content: space-between;
+  gap: 16px;
+}
+
+@media (max-width: 1099px) {
+  .bar {
+    grid-template-columns: repeat(2, var(--control-width));
+    justify-content: center;
+    column-gap: 32px;
+  }
+}
+
+@media (max-width: 699px) {
+  .bar {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .bar > * {
+    width: 100%;
+  }
+}

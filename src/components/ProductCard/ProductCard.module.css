@@ -1,0 +1,64 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 100%;
+  padding: 25px 24px;
+  background: var(--color-surface);
+  border-radius: var(--card-radius);
+}
+
+.image {
+  align-self: center;
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+}
+
+.title {
+  max-width: 290px;
+  min-height: 44px;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+}
+
+.specs {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.spec {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.spec dt {
+  color: var(--color-text-muted);
+}
+
+.spec dd {
+  font-weight: 700;
+}
+
+.energy {
+  align-items: center;
+}
+
+.validity {
+  margin-top: auto;
+  font-size: 12px;
+  line-height: 18px;
+  color: var(--color-text-muted);
+}
+
+.installment {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 18px;
+  color: var(--color-text-secondary);
+}

@@ -1,0 +1,26 @@
+:root {
+  --color-bg: #f8f8f8;
+  --color-surface: #ffffff;
+  --color-text: #000000;
+  --color-text-muted: #767676;
+  --color-text-secondary: #555555;
+  --color-primary: #1428a0;
+  --color-primary-hover: #0f1f7a;
+  --color-selected: #000000;
+  --color-energy: #009949;
+  --color-link: #2189ff;
+  --color-option-hover: #f2f2f2;
+  --color-border: #e5e5e5;
+  --color-focus: #2189ff;
+
+  --font-family: 'SamsungOne', Arial, Helvetica, sans-serif;
+
+  --container-width: 1046px;
+  --grid-gap: 16px;
+  --control-width: 249px;
+  --control-height: 36px;
+  --card-radius: 20px;
+  --pill-radius: 24px;
+
+  --shadow-dropdown: 0 4px 16px rgb(0 0 0 / 0.12);
+}

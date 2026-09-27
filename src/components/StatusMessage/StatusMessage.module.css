@@ -1,0 +1,31 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 48px 24px;
+  text-align: center;
+  background: var(--color-surface);
+  border-radius: var(--card-radius);
+}
+
+.message {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+}
+
+.action {
+  height: 36px;
+  padding: 10px 32px;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 16px;
+  color: var(--color-surface);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  cursor: pointer;
+  background: var(--color-primary);
+  border: 0;
+  border-radius: var(--pill-radius);
+}

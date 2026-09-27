@@ -1,0 +1,21 @@
+.controls {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.results {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.count {
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.more {
+  display: flex;
+  justify-content: center;
+}

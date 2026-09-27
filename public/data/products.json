@@ -1,0 +1,531 @@
+[
+  {
+    "id": "ww90t754abt",
+    "code": "WW90T754ABT",
+    "name": "Pralka QuickDrive™",
+    "color": "biała",
+    "capacityKg": 9,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 55,
+      "h": 85
+    },
+    "features": ["addwash", "ai-control", "inverter", "display"],
+    "energyClass": "A",
+    "priceGrosze": 319900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 5331
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 95,
+    "image": "images/washer-white.svg"
+  },
+  {
+    "id": "ww90t754abh",
+    "code": "WW90T754ABH",
+    "name": "Pralka QuickDrive™",
+    "color": "inox",
+    "capacityKg": 9,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 55,
+      "h": 85
+    },
+    "features": ["addwash", "ai-control", "inverter", "display"],
+    "energyClass": "A",
+    "priceGrosze": 329900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 5498
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 88,
+    "image": "images/washer-inox.svg"
+  },
+  {
+    "id": "ww10t654dlh",
+    "code": "WW10T654DLH",
+    "name": "Pralka AddWash™",
+    "color": "biała",
+    "capacityKg": 10.5,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 60,
+      "h": 85
+    },
+    "features": ["addwash", "inverter", "display"],
+    "energyClass": "A",
+    "priceGrosze": 289900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 4831
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 90,
+    "image": "images/washer-white.svg"
+  },
+  {
+    "id": "ww10t654dlx",
+    "code": "WW10T654DLX",
+    "name": "Pralka AddWash™",
+    "color": "inox",
+    "capacityKg": 10.5,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 60,
+      "h": 85
+    },
+    "features": ["addwash", "inverter", "display"],
+    "energyClass": "A",
+    "priceGrosze": 299900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 4998
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 72,
+    "image": "images/washer-inox.svg"
+  },
+  {
+    "id": "ww90t654dlh",
+    "code": "WW90T654DLH",
+    "name": "Pralka AddWash™",
+    "color": "biała",
+    "capacityKg": 9,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 55,
+      "h": 85
+    },
+    "features": ["addwash", "inverter", "display"],
+    "energyClass": "B",
+    "priceGrosze": 259900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 4331
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 85,
+    "image": "images/washer-white.svg"
+  },
+  {
+    "id": "ww90t654dlx",
+    "code": "WW90T654DLX",
+    "name": "Pralka AddWash™",
+    "color": "inox",
+    "capacityKg": 9,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 55,
+      "h": 85
+    },
+    "features": ["addwash", "inverter", "display"],
+    "energyClass": "B",
+    "priceGrosze": 269900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 4498
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 60,
+    "image": "images/washer-inox.svg"
+  },
+  {
+    "id": "ww90t986ash",
+    "code": "WW90T986ASH",
+    "name": "Pralka QuickDrive™ AI",
+    "color": "biała",
+    "capacityKg": 9,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 55,
+      "h": 85
+    },
+    "features": ["ai-control", "inverter", "display"],
+    "energyClass": "A",
+    "priceGrosze": 399900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 6665
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 80,
+    "image": "images/washer-white.svg"
+  },
+  {
+    "id": "ww90t986asx",
+    "code": "WW90T986ASX",
+    "name": "Pralka QuickDrive™ AI",
+    "color": "inox",
+    "capacityKg": 9,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 55,
+      "h": 85
+    },
+    "features": ["ai-control", "inverter", "display"],
+    "energyClass": "A",
+    "priceGrosze": 399900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 6665
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 66,
+    "image": "images/washer-inox.svg"
+  },
+  {
+    "id": "ww90t954asx",
+    "code": "WW90T954ASX",
+    "name": "Pralka AI Control",
+    "color": "inox",
+    "capacityKg": 9,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 55,
+      "h": 85
+    },
+    "features": ["ai-control", "inverter", "display"],
+    "energyClass": "B",
+    "priceGrosze": 349900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 5831
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 70,
+    "image": "images/washer-inox.svg"
+  },
+  {
+    "id": "ww90t954ash",
+    "code": "WW90T954ASH",
+    "name": "Pralka AI Control",
+    "color": "biała",
+    "capacityKg": 9,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 55,
+      "h": 85
+    },
+    "features": ["ai-control", "inverter", "display"],
+    "energyClass": "B",
+    "priceGrosze": 339900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 5665
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 77,
+    "image": "images/washer-white.svg"
+  },
+  {
+    "id": "ww80t4540te",
+    "code": "WW80T4540TE",
+    "name": "Pralka EcoBubble™",
+    "color": "biała",
+    "capacityKg": 8,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 45,
+      "h": 85
+    },
+    "features": ["inverter", "display"],
+    "energyClass": "C",
+    "priceGrosze": 219900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 3665
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 83,
+    "image": "images/washer-white.svg"
+  },
+  {
+    "id": "ww80t4540ax",
+    "code": "WW80T4540AX",
+    "name": "Pralka EcoBubble™",
+    "color": "inox",
+    "capacityKg": 8,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 45,
+      "h": 85
+    },
+    "features": ["inverter", "display"],
+    "energyClass": "C",
+    "priceGrosze": 229900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 3831
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 55,
+    "image": "images/washer-inox.svg"
+  },
+  {
+    "id": "ww80t534daw",
+    "code": "WW80T534DAW",
+    "name": "Pralka AddWash™ Slim",
+    "color": "biała",
+    "capacityKg": 8,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 45,
+      "h": 85
+    },
+    "features": ["addwash", "inverter"],
+    "energyClass": "D",
+    "priceGrosze": 199900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 3331
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 74,
+    "image": "images/washer-white.svg"
+  },
+  {
+    "id": "ww80t534dax",
+    "code": "WW80T534DAX",
+    "name": "Pralka AddWash™ Slim",
+    "color": "inox",
+    "capacityKg": 8,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 45,
+      "h": 85
+    },
+    "features": ["addwash", "inverter"],
+    "energyClass": "D",
+    "priceGrosze": 209900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 3498
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 48,
+    "image": "images/washer-inox.svg"
+  },
+  {
+    "id": "ww80ta046ae",
+    "code": "WW80TA046AE",
+    "name": "Pralka Hygiene Steam",
+    "color": "biała",
+    "capacityKg": 8,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 45,
+      "h": 85
+    },
+    "features": ["display"],
+    "energyClass": "E",
+    "priceGrosze": 184900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 3081
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 68,
+    "image": "images/washer-white.svg"
+  },
+  {
+    "id": "ww80ta046ax",
+    "code": "WW80TA046AX",
+    "name": "Pralka Hygiene Steam",
+    "color": "inox",
+    "capacityKg": 8,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 45,
+      "h": 85
+    },
+    "features": ["display"],
+    "energyClass": "E",
+    "priceGrosze": 189900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 3165
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 40,
+    "image": "images/washer-inox.svg"
+  },
+  {
+    "id": "ww90ta046ae",
+    "code": "WW90TA046AE",
+    "name": "Pralka Hygiene Steam",
+    "color": "biała",
+    "capacityKg": 9,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 55,
+      "h": 85
+    },
+    "features": ["inverter", "display"],
+    "energyClass": "D",
+    "priceGrosze": 194900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 3248
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 62,
+    "image": "images/washer-white.svg"
+  },
+  {
+    "id": "ww90ta046ax",
+    "code": "WW90TA046AX",
+    "name": "Pralka Hygiene Steam",
+    "color": "inox",
+    "capacityKg": 9,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 55,
+      "h": 85
+    },
+    "features": ["inverter", "display"],
+    "energyClass": "D",
+    "priceGrosze": 199900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 3331
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 45,
+    "image": "images/washer-inox.svg"
+  },
+  {
+    "id": "ww10t534daw",
+    "code": "WW10T534DAW",
+    "name": "Pralka AddWash™",
+    "color": "biała",
+    "capacityKg": 10.5,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 60,
+      "h": 85
+    },
+    "features": ["addwash", "inverter", "display"],
+    "energyClass": "C",
+    "priceGrosze": 249900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 4165
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 58,
+    "image": "images/washer-white.svg"
+  },
+  {
+    "id": "ww10t534dax",
+    "code": "WW10T534DAX",
+    "name": "Pralka AddWash™",
+    "color": "inox",
+    "capacityKg": 10.5,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 60,
+      "h": 85
+    },
+    "features": ["addwash", "inverter", "display"],
+    "energyClass": "C",
+    "priceGrosze": 259900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 4331
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 42,
+    "image": "images/washer-inox.svg"
+  },
+  {
+    "id": "ww80t304mbw",
+    "code": "WW80T304MBW",
+    "name": "Pralka Essential",
+    "color": "biała",
+    "capacityKg": 8,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 45,
+      "h": 85
+    },
+    "features": ["display"],
+    "energyClass": "F",
+    "priceGrosze": 179900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 2998
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 35,
+    "image": "images/washer-white.svg"
+  },
+  {
+    "id": "ww90t534dae",
+    "code": "WW90T534DAE",
+    "name": "Pralka AddWash™",
+    "color": "biała",
+    "capacityKg": 9,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 55,
+      "h": 85
+    },
+    "features": ["addwash", "inverter", "display"],
+    "energyClass": "C",
+    "priceGrosze": 239900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 3998
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 64,
+    "image": "images/washer-white.svg"
+  },
+  {
+    "id": "ww10t754abh",
+    "code": "WW10T754ABH",
+    "name": "Pralka QuickDrive™",
+    "color": "biała",
+    "capacityKg": 10.5,
+    "dimensionsCm": {
+      "w": 60,
+      "d": 60,
+      "h": 85
+    },
+    "features": ["addwash", "ai-control", "inverter", "display"],
+    "energyClass": "A",
+    "priceGrosze": 359900,
+    "installments": {
+      "count": 60,
+      "amountGrosze": 5998
+    },
+    "priceValidFrom": "2022-09-15",
+    "priceValidTo": "2022-09-21",
+    "popularity": 79,
+    "image": "images/washer-white.svg"
+  }
+]
